@@ -1,0 +1,227 @@
+icon name	license	origin
+application-certificate.svgz	LGPLv3	oxygen + DooFi@openclipart.org + icomity
+application-epub+zip.svgz	LGPLv3	icomity
+application-flash.svgz	LGPLv3	icomity
+application-illustrator.svgz	LGPLv3	icomity
+application-javascript.svgz	LGPLv3	icomity + yellowsoft.us (license?)
+application-msword.svgz	LGPLv3	oxygen
+application-msword-template.svgz	LGPLv3	oxygen + gnome
+application-octet-stream.svgz	LGPLv3	icomity + crystal svg
+application-pdf.svgz	LGPLv3	icomity + crystal svg
+application-pgp-encrypted.svgz	LGPLv3	icomity + AJ@openclipart.org
+application-pgp-keys.svgz	LGPLv3	icomity + realistiK
+application-pgp-signature.svgz	LGPLv3	oxygen
+application-pkcs7-signature.svgz	LGPLv3	oxygen
+application-postscript.svgz	LGPLv3	icomity
+application-relaxng.svgz	LGPLv3	icomity
+application-rhythmbox-playlist.svgz	LGPLv3	icomity
+application-rss+xml.svgz	LGPLv3	oxygen
+application-smil.svgz	LGPLv3	icomity
+application.svgz	LGPLv3	icomity
+application-tar-lzma.svgz	LGPLv3	faenza
+application-tar.svgz	LGPLv3	faenza
+application-taz.svgz	LGPLv3	faenza
+application-tbz.svgz	LGPLv3	faenza
+application-tgz.svgz	LGPLv3	faenza
+application-txz.svgz	LGPLv3	faenza
+application-vnd.ms-access.svgz	LGPLv3	oxygen + icomity
+application-vnd.ms-excel.svgz	LGPLv3	oxygen
+application-vnd.ms-powerpoint.svgz	LGPLv3	oxygen
+application-vnd.ms-word.svgz	LGPLv3	oxygen
+application-vnd.oasis.opendocument.chart.svgz	LGPLv3	oxygen + icomity
+application-vnd.oasis.opendocument.database.svgz	LGPLv3	oxygen + icomity
+application-vnd.oasis.opendocument.presentation.svgz	LGPLv3	oxygen + icomity
+application-vnd.oasis.opendocument.presentation-template.svgz	LGPLv3	oxygen + gnome + icomity
+application-vnd.oasis.opendocument.spreadsheet.svgz	LGPLv3	oxygen + gnome + icomity
+application-vnd.oasis.opendocument.spreadsheet-template.svgz	LGPLv3	oxygen + gnome + icomity
+application-vnd.oasis.opendocument.text.svgz	LGPLv3	oxygen + neyro@openclipart.org + icomity
+application-vnd.openxmlformats-officedocument.wordprocessingml.document.svgz	LGPLv3	oxygen + neyro@openclipart.org + icomity
+application-vnd.rn-realmedia.svgz	LGPLv3	crystal svg + icomity
+application-vnd.scribus.svgz	LGPLv3	oxygen
+application-vnd.stardivision.calc.svgz	LGPLv3	oxygen
+application-vnd.sun.xml.base.svgz	LGPLv3	icomity
+application-vnd.sun.xml.calc.svgz	LGPLv3	icomity
+application-vnd.sun.xml.calc.template.svgz	LGPLv3	gnome + icomity
+application-vnd.sun.xml.chart.svgz	LGPLv3	icomity
+application-vnd.sun.xml.draw.svgz	LGPLv3	icomity
+application-vnd.sun.xml.draw.template.svgz	LGPLv3	gnome + icomity
+application-vnd.sun.xml.impress.svgz	LGPLv3	icomity
+application-vnd.sun.xml.math.svgz	LGPLv3	icomity
+application-vnd.sun.xml.writer.svgz	LGPLv3	icomity
+application-vnd.sun.xml.writer.template.svgz	LGPLv3	gnome + icomity
+application-x-7z-compressed.svgz	LGPLv3	faenza
+application-x-7zip.svgz	LGPLv3	faenza
+application-x-ace.svgz	LGPLv3	faenza
+application-x-applix-spreadsheet.svgz	LGPLv3	oxygen
+application-x-archive.svgz	LGPLv3	faenza
+application-x-bittorrent.svgz	LGPLv3	faenza + icomity
+application-x-blender.svgz	LGPLv3	icomity
+application-x-bzdvi.svgz	LGPLv3	crystal svg + icomity
+application-x-bzip-compressed-tar.svgz	LGPLv3	faenza
+application-x-bzip.svgz	LGPLv3	faenza + icomity
+application-x-chm.svgz	LGPLv3	breathe + icomity
+application-x-compressed-tar.svgz	LGPLv3	faenza
+application-x-deb.svgz	LGPLv3	faenza
+application-x-designer.svgz	LGPLv3	oxygen + icomity
+application-x-desktop.svgz	LGPLv3	oxygen + icomity
+application-x-dvi.svgz	LGPLv3	crystal svg + icomity
+application-x-executable-script.svgz	LGPLv3	oxygen + icomity
+application-x-executable.svgz	LGPLv3	oxygen + icomity
+application-x-font-afm.svgz	LGPLv3	crystal svg + icomity
+application-x-font-bdf.svgz	LGPLv3	crystal svg + icomity
+application-x-font-bitmap.svgz	LGPLv3	crystal svg + icomity
+application-x-font-otf.svgz	LGPLv3	icomity + ?
+application-x-font-pcf.svgz	LGPLv3	crystal svg + icomity
+application-x-font-snf.svgz	LGPLv3	crystal svg + icomity
+application-x-font-ttf.svgz	LGPLv3	icomity + ?
+application-x-font-type1.svgz	LGPLv3	crystal svg + icomity
+application-x-gettext-translation.svgz	LGPLv3	anonymous@openclipart.org + icomity
+application-x-glade.svgz	LGPLv3	icomity
+application-x-gnumeric.svgz	LGPLv3	icomity
+application-x-gzdvi.svgz	LGPLv3	crystal svg + icomity
+application-x-gzip-compressed-tar.svgz	LGPLv3	faenza
+application-x-gzip.svgz	LGPLv3	faenza + icomity
+application-x-gzpostscript.svgz	LGPLv3	icomity
+application-xhtml+xml.svgz	LGPLv3	dan gerhard@openclipart.org + icomity
+application-x-jar.svgz	LGPLv3	faenza
+application-x-java-archive.svgz	LGPLv3	faenza
+application-x-java-bytecode.svgz	LGPLv3	crystal svg + icomity
+application-x-javascript.svgz	LGPLv3	icomity + yellowsoft.us (license?)
+application-x-java.svgz	LGPLv3	icomity
+application-x-k3b.svgz	LGPLv3	oxygen
+application-x-kcsrc.svgz	LGPLv3	oxygen
+application-x-kformula.svgz	LGPLv3	oxygen
+application-x-kgetlist.svgz	LGPLv3	oxygen
+application-x-kontour.svgz	LGPLv3	oxygen
+application-x-kplato.svgz	LGPLv3	oxygen
+application-x-krita.svgz	LGPLv3	oxygen
+application-x-kvtml.svgz	LGPLv3	oxygen
+application-x-kword.svgz	LGPLv3	oxygen
+application-x-lyx.svgz	LGPLv3	icomity
+application-x-lzma-compressed-tar.svgz	LGPLv3	faenza
+application-x-lzma.svgz	LGPLv3	faenza + icomity
+application-xml.svgz	LGPLv3	icomity
+application-x-mplayer2.svgz	LGPLv3	gnome + icomity
+application-x-ms-dos-executable.svgz	LGPLv3	oxygen + icomity
+application-x-perl.svgz	LGPLv3	icomity
+application-x-php.svgz	LGPLv3	crystal svg + icomity
+application-x-python-bytecode.svgz	LGPLv3	icomity
+application-x-python.svgz	LGPLv3	icomity
+application-x-quattropro.svgz	LGPLv3	oxygen
+application-x-rar.svgz	LGPLv3	faenza
+application-x-rpm.svgz	LGPLv3	faenza
+application-x-ruby.svgz	LGPLv3	icomity
+application-x-sharedlib.svgz	LGPLv3	icomity
+application-x-shellscript.svgz	LGPLv3	icomity
+application-x-shockwave-flash.svgz	LGPLv3	icomity
+application-x-siag.svgz	LGPLv3	oxygen
+application-x-smb-server.svgz	LGPLv3	Rob Fenwitch@openclipart.org + icomity + oxygen
+application-x-smb-workgroup.svgz	LGPLv3 + CCASAv3	icomity + Azure@commons.wikimedia.org + faenza
+application-x-srtrip.svgz	LGPLv3	gnome + icomity
+application-x-srt.svgz	LGPLv3	gnome + icomity
+application-x-subrip.svgz	LGPLv3	gnome + icomity
+application-x-tar.svgz	LGPLv3	faenza
+application-x-tarz.svgz	LGPLv3	faenza
+application-x-tcl.svgz	LGPLv3	icomity
+application-x-tex.svgz	LGPLv3	crystal svg + icomity
+application-x-tk.svgz	LGPLv3	icomity
+application-x-trash.svgz	LGPLv3	crystal svg + icomity
+application-x-troff-man.svgz	LGPLv3	breathe + icomity
+application-x-wmf.svgz	LGPLv3	faenza + icomity
+application-x-xz-compressed-tar.svgz	LGPLv3	faenza
+application-x-xz.svgz	LGPLv3	faenza + icomity
+application-x-zip.svgz	LGPLv3	faenza
+application-zip.svgz	LGPLv3	faenza
+audio-ac3.svgz	LGPLv3	icomity
+audio-mp3.svgz	LGPLv3	icomity
+audio-realmedia.svgz	LGPLv3	crystal svg + icomity
+audio-vnd.rn-realvideo.svgz	LGPLv3	crystal svg + icomity
+audio-vn.rn-realmedia.svgz	LGPLv3	crystal svg + icomity
+audio-vn.rn-realvideo.svgz	LGPLv3	crystal svg + icomity
+audio-x-generic.svgz	LGPLv3	faenza + icomity
+audio-x-wav.svgz	LGPLv3	icomity
+font-x-generic.svgz	LGPLv3	oxygen + icomity
+gnome-mime-application-x-jar.svgz	LGPLv3	crystal svg + icomity
+image-bmp.svgz	LGPLv3	faenza
+image-gif.svgz	LGPLv3	faenza
+image-jpeg.svgz	LGPLv3	faenza
+image-png.svgz	LGPLv3	faenza
+image-svg+xml-compressed.svgz	LGPLv3	faenza + icomity
+image-svg+xml.svgz	LGPLv3	faenza + icomity
+image-tiff.svgz	LGPLv3	faenza
+image-vnd.dgn.svgz	LGPLv3	oxygen
+image-vnd.dwg.svgz	LGPLv3	oxygen
+image-x-emf.svgz	LGPLv3	faenza + icomity
+image-x-eps.svgz	LGPLv3	faenza + icomity
+image-x-generic.svgz	LGPLv3	faenza
+image-x-ico.svgz	LGPLv3	faenza
+image-x-pnm.svgz	LGPLv3	nubizus@gnome-look.org + icomity
+image-x-vnd.trolltech.qpicture.svgz	LGPLv3	faenza + icomity
+image-x-wmf.svgz	LGPLv3	faenza + icomity
+image-x-xcf.svgz	LGPLv3	faenza
+image-x-xfig.svgz	LGPLv3	faenza + icomity
+inode-directory.svgz	LGPLv3	kanzi + icomity
+package-x-generic.svgz	LGPLv3	faenza
+text-calendar.svgz	LGPLv3	oxygen
+text-css.svgz	LGPLv3	icomity
+text-html.svgz	LGPLv3	dan gerhard@openclipart.org + icomity
+text-sgml.svgz	LGPLv3	icomity
+text-vcalendar.svgz	LGPLv3	oxygen
+text-x-adasrc.svgz	LGPLv3	ha1flosse@openclipart.org + icomity
+text-x-ada.svgz	LGPLv3	ha1flosse@openclipart.org + icomity
+text-x-authors.svgz	LGPLv3	icomity
+text-x-bibtex.svgz	LGPLv3	crystal svg + icomity
+text-x-c++hdr.svgz	LGPLv3	icomity
+text-x-chdr.svgz	LGPLv3	icomity
+text-x-c-header.svgz	LGPLv3	icomity
+text-x-credits.svgz	LGPLv3	icomity
+text-x-csharp.svgz	LGPLv3	icomity
+text-x-c++src.svgz	LGPLv3	icomity
+text-x-csrc.svgz	LGPLv3	icomity
+text-x-c.svgz	LGPLv3	icomity
+text-x-c++.svgz	LGPLv3	icomity
+text-x-generic.svgz	LGPLv3	icomity
+text-x-generic-template.svgz	LGPLv3	icomity
+text-x-gettext-translation.svgz	LGPLv3	anonymous@openclipart.org + icomity
+text-x-haskell.svgz	LGPLv3	icomity + yellowsoft.us (license?)
+text-x-java.svgz	LGPLv3	icomity
+text-x-literate-haskell.svgz	LGPLv3	icomity
+text-x-log.svgz	LGPLv3	icomity
+text-x-lyx.svgz	LGPLv3	crystal svg + icomity
+text-x-makefile.svgz	LGPLv3	icomity
+text-xml.svgz	LGPLv3	icomity
+text-x-objchdr.svgz	LGPLv3	icomity
+text-x-objcsrc.svgz	LGPLv3	icomity
+text-x-pascal.svgz	LGPLv3	icomity + yellowsoft.us (license?)
+text-x-patch.svgz	LGPLv3	icomity
+text-x-po.svgz	LGPLv3	anonymous@openclipart.org + icomity
+text-x-python.svgz	LGPLv3	icomity
+text-x-scheme.svgz	LGPLv3	icomity
+text-x-script.svgz	LGPLv3	icomity
+text-x-sql.svgz	LGPLv3	icomity
+text-x-tcl.svgz	LGPLv3	icomity
+text-x-texinfo.svgz	LGPLv3	 breathe + icomity
+text-x-tex.svgz	LGPLv3	crystal svg + icomity
+text-x-vcard.svgz	LGPLv3	gnome + icomity
+text-x-xslt.svgz	LGPLv3	icomity
+uri-mms.svgz	LGPLv3	oxygen + icomity
+uri-mmst.svgz	LGPLv3	oxygen + icomity
+uri-mmsu.svgz	LGPLv3	oxygen + icomity
+uri-pnm.svgz	LGPLv3	oxygen + icomity
+uri-rtspt.svgz	LGPLv3	oxygen + icomity
+uri-rtspu.svgz	LGPLv3	oxygen + icomity
+video-quicktime.svgz	LGPLv3	crystal svg + icomity
+video-realplayer.svgz	LGPLv3	crystal svg + icomity
+video-x-generic.svgz	LGPLv3	icomity
+video-x-mng.svgz	LGPLv3	hakim@openclipart.org + icomity
+video-x-mp2.svgz	LGPLv3	icomity
+video-x-mp4.svgz	LGPLv3	icomity
+video-x-ms-asf.svgz	LGPLv3	icomity
+video-x-msvideo.svgz	LGPLv3	icomity
+video-x-ms-wmv.svgz	LGPLv3	faenza + icomity
+x-media-podcast.svgz	LGPLv3	faenza + icomity
+x-office-calendar.svgz	LGPLv3	oxygen
+x-office-contact.svgz	LGPLv3	gnome + icomity
+x-office-document.svgz	LGPLv3	oxygen
+x-office-presentation.svgz	LGPLv3	gnome + icomity
+x-office-spreadsheet.svgz	LGPLv3	oxygen
