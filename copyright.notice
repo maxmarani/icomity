@@ -1,0 +1,390 @@
+This is an attempt to assign the deserved credits to icon authors used on iComity theme.
+
+There are some logos of companies/products used on this icon set. These must be considered
+copyrighted material and are only used with the intent to better represent the kind of
+object they are associated to. On request of copyright/trademark owner, they will
+be deleted of the package.
+ 
+What I think is my original work will be marked with asterisk, sometimes with a indication
+of the inspiration origin after it. They are by default LGPLv3, unless stated on contrary. 
+It is a change from my original intent to better accomodate the licenses present on oxygen
+and gnome icon themes. The ones I could not locate the author or identify correctly the 
+license will get a '?'. Note that most of these were posted on Open Clipart Library, 
+Commons Wikimedia or on (xfce|gnome|kde)-look and carry one kind or other of free license.
+
+Anyone that can track the right origin of any icon feel free to send one email indicating
+the source to me, what I will check out.
+
+Also, I would like to be notified by original authors on case of conflicting licenses to
+sort out what can be done (like attach a multiple license clause or removal of the offending
+material).
+
+I know that mistakes will be made and I will try to correct them the best I can.
+
+Andre - andre.cbarros@yahoo.com
+
+----------------------------------------------------------------------------------------------------------------------
+Special thanks to:
+
+Adrien Facélina (http://perso.orange.fr/eriollsdesigns/icons.html). Balloon and other components of Lanthys_SVG. LGPL
+
+Alexandre Moore - Sa-ki (http://sa-ki.deviantart.com/). Snowish is one of the best icon themes I saw. GPL
+
+Andrew Fitzsimon - Etiquette Icon Theme. Very good icon set. CCSA
+
+Andrew Ryan Enyart - Arenyart (http://arenyart.googlepages.com/). KReal and svgIcons packages. Very nice set. AL2
+
+Jeff Waugh and Daniel Holbach - Ubuntu Human. Great icons and ideas. CCSA2.5
+
+Matthieu James - tiheum (http://tiheum.deviantart.com/). Faenza and Faience icon themes. Astonishing icon set.
+Specially good for small devices interfaces. Very thanks. GPL
+
+Miguel Cruz - igancuhz - Crashbit Icon Theme. Very nice icon set. The basic shape of OOo came from it.
+
+Kitae Kim - Jini Icon Theme. Another fantastic collection. Got many layouts from it. CCSA2.5
+
+Everaldo (http://www.everaldo.com) of Crystal icons. The quality of his icons are amazing. LGPL
+
+InFeRnODeMoN (http://thedarkstar.openfmi.net/). Lots of nice icons on realitiK Reloaded. GPL
+
+Julian Prenner - apj (?). Gnome_wind. Good icons. GPL
+
+Daniel Fore - (?). Macesque. Nice removable hard disks icons. ?
+
+KDE Oxygen Icon Theme Artists - Probably would not have started this project if I were following their
+development steps. Got many icons from them. Wonderful icons. LGPLv3
+
+Gnome and Tango Icon Theme Artists - Fantastic icons, very well thought usually. If you want to learn
+how an icon should be made when using few colors, there is no best place to look at. And they look nice
+even at diminute sizes! LGPLv3
+
+Apple - even though not being a user of their machines, I have to admit that many ideas came from the
+spectacular icons they (their artists) created. Some will ever looks like a rip off - my sinceres
+apologies should it be the case. Thanks for raise the bar on user interfaces (and hope it get back
+to sanity on judicial disputes).
+
+Sun Microsystems - Alongside with heaps of goodies they give to the FOSS community
+they also allow us to copy their icon set, Nimbus, which happen to be one of my
+favourite ones. GPL, I think.
+
+Microsoft - They for sure are source of inspiration sometimes. Thanks for that. Like with Apple, I hope
+the stop the litigation and NDA settlement craziness.
+ 
+----------------------------------------------------------------------------------------------------------------------
+Some abreviations used on the following list
+Artistic License 2				- AL2
+GNU Public License				- GPL
+Lesser GPL					- LGPL
+Creative Commons Attribution-ShareAlike 2.5	- CCSA2.5 (or CCASAv#)
+GNU Free Documentation License			- GFDL
+Public Domain					- PD
+Open Clipart Library				- OCL (CC0v1.0)
+Trademark					- Trademark
+
+----------------------------------------------------------------------------------------------------------------------
+
+OBS.: Note that there are many icons that will be changed on final release. Also most of unassigned icons are the Xfce
+      default ones which will probably be replaced.
+      
+      
+======================================================================================================================
+>>>>> ATTENCION <<<<<<<<
+------------------------
+The list below is totally outdated. I will keep it just for historical record purpose. As we know, things on
+Internet come and go and it is very useful sometimes to keep some informations readily available
+
+The information of icons origins are now on each subdir on files named ".icon-license.notice".
+======================================================================================================================
+
+----------------------------------------------------------------------------------------------------------------------
+Icon					License		Source/Author			Obs.
+----------------------------------------------------------------------------------------------------------------------
+apps/abiword.svg			?		?				Tweaks of the original icon.
+apps/acroread.svgz			LGPL		CrystalSVG
+apps/amarok.svgz			?		?
+apps/applets-screenshooter.svg		AL2/LGPL	KReal/Lanthys			cam / pic
+apps/blender.svg			TM		?				Redrawing of logo by me	
+apps/bluefish-icon.svg			LGPL		CrystalSVG			Just edited colors
+apps/burn.svg				*
+apps/ddd.svg				?		?/*				Compositing
+apps/dict.svg				PD		Robbie Fitzsimon
+apps/digikam.svg			AL2		KReal
+apps/emule.svg				?		?				Bad link on gnome-look now
+apps/evolution.svg			*
+apps/file-manager.svg			GPL		RealistiK			Tweaks
+apps/firefox.svg			TM		Dariusz Arciszewski		Mix elements + tweak
+apps/gftp.svg				*
+apps/gimp.svg				LGPL		Kristaline			Tweaks
+apps/gnome-applications.svg		LGPL		Crystal/Gnome_wind/Adrien	Combination
+apps/gnome-audio.svg			*
+apps/gnome-calculator.svg		?						Refactoring
+apps/gnome-cdplayer-icon.svg		*
+apps/gnome-desktop-config.svg		GPL		*/Gnome_wind			Refactoring
+apps/gnome-devel.svg			?		*/?				Refactoring
+apps/gnome-fs-trash_empty.svg		GPL		divilinux divi			Tweaks
+apps/gnome-fs-trash_full.svg		GPL		divilinux divi			Tweaks
+apps/gnome-globe.svg			*
+apps/gnome-graphics.svg			GPL		Staiu Kasabov-Nuvizus.com	Nice icon
+apps/gnome_help.svg			?
+apps/gnome-info.svg			*
+apps/gnome-joystick.svg			GFDL		Piotr Michal Jaworski
+apps/gnome-library.svg			*
+apps/gnome-logout.svg			GPL2		xfce icon theme
+apps/gnome-multimedia.svg		*
+apps/gnome-other.svg			*
+apps/gnome-package.svg			*
+apps/gnome-pdf.svgz			LGPL		CrystalSVG
+apps/gnome-searchtool.svg		*
+apps/gnome-settings.svg			GPL		Gnome_wind/*			Composition
+apps/gnome-shutdown.svg			GPL2		xfce icon them
+apps/gnome-starthere.svg		*
+apps/gnome-system.svg			GPL		*/Gnome_wind			Composition
+apps/gnome-terminal.svg			?						Refactoring
+apps/gnome-util.svg			*
+apps/group.svg				?		?				Redrawing
+apps/help_index.svgz			?
+apps/inkscape.svg			?
+apps/keyboard.svgz			LGPL		CrystalSVG
+apps/kfm_home.svgz			GPL		CrystalSVG			Tweaks
+apps/lyx.svg				CCSA		Etiquette
+apps/mplayer.svg			?						Tweaks
+apps/ooo_base.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_calc.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_chart.svg			GPL (?)						Addendum by me
+apps/ooo_draw.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_impress.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_math.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_setup.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/ooo_writer.svg			GPL (?)		http://ui.openoffice.org/VisualDesign/OOo20MimeType.html
+apps/option/personal.svgz		GPL		CrystalSVG
+apps/option/users.svgz			GPL		CrystalSVG
+apps/palm-pilot.svg			GPL		Luciano Lourenco/Gnome_wind	Refactored/combined
+apps/personal.svg			?		?				Redrawing
+apps/search.svg				*
+apps/settings.svg			*
+apps/skype.svgz				GPL		realistiK
+apps/thunderbird.svg			CCSA		Etiquette				Refactoring
+apps/web-browser.svg			*
+apps/xarchiver.svg			*
+apps/xcdroast.svg			*
+apps/xfce4-panel.svg			GPL2		xfce icon theme
+apps/xfce4-splash.svg			?		Gnome_wind/Stefan Bazelkov splash	Tweaks/composition
+apps/xfce-edit.svg			?		Lanthys/Jonathan Dietrich pencil	Tweaks/composition
+apps/xfce-filemanager.svg		GPL		realistiK
+apps/xfce-games.svg			GFDL		Rubik's cube from Wikimedia
+apps/xfce-gnome-mailcheck.svg		*
+apps/xfce-graphics.svg			GPL		Staiu Kasabov-Nuvizus.com
+apps/xfce-gtk-paste.svg			GPL		RealistiK
+apps/xfce-internet.svg			*
+apps/xfce-lockscreen.svg		PD		AJ Ashton - OCL			
+apps/xfce-mail.svg			*
+apps/xfce-multimedia.svg		*
+apps/xfce-newmail.svg			*
+apps/xfce-nomail.svg			*
+apps/xfce-oldmail.svg			*
+apps/xfce-printer.svg			*
+apps/xfce-schedule.svg			PD		Mauro Olivo - OCL		Tweaks
+apps/xfce-system-exit.svg		GPL2		xfce icon theme
+apps/xfce-system-info.svg		*
+apps/xfce-system-settings.svg		*
+apps/xfce-terminal.svg			?						Refactoring
+apps/xfce-unknown.svg			*
+apps/xfce-utils.svg			LGPL		*/CrystalSVG			Tweaks/composition
+apps/xine.svg				GPL		darjeeling92
+apps/xsane.svg				*
+apps/x.svgz				TM						Tweaks
+devices/battery.svg			PD		Jean Victor Bali
+devices/camcorder.svg			*
+devices/cam.svg				AL2		KReal
+devices/gamepad.svg			?						Refactoring
+devices/gnome-dev-cdrom-audio.svg	*
+devices/gnome-dev-cdrom.svg		*
+devices/gnome-dev-compressed.svg	*
+devices/gnome-dev-disc-cdr.svg		*
+devices/gnome-dev-disc-cdrw.svg		*
+devices/gnome-dev-disc-dvdram.svg	*
+devices/gnome-dev-disc-dvdrom.svg	*
+devices/gnome-dev-disc-dvdr-plus.svg	*
+devices/gnome-dev-disc-dvdr.svg		*
+devices/gnome-dev-disc-dvdrw-plus.svg	*
+devices/gnome-dev-disc-dvdrw.svg	*
+devices/gnome-dev-dvd.svg		*
+devices/gnome-dev-floppy.svg		AL2		KReal
+devices/gnome-dev-harddisk-1394.svg	GPL		Gnome_wind			Refactoring
+devices/gnome-dev-harddisk-scsi.svg	GPL		Gnome_wind			Refactoring
+devices/gnome-dev-harddisk.svg		GPL		Gnome_wind			Refactoring
+devices/gnome-dev-harddisk-usb.svg	GPL		Gnome_wind			Refactoring
+devices/gnome-dev-jazdisk.svg		CCSA2.5		Human
+devices/gnome-dev-keyboard.svg		*
+devices/gnome-dev-media-cf.svg		CCSA2.5		Human
+devices/gnome-dev-media-ms.svg		CCSA2.5		Human
+devices/gnome-dev-media-sdmmc.svg	CCSA2.5		Human
+devices/gnome-dev-media-sm.svg		CCSA2.5		Human
+devices/gnome-dev-mem.svg		PD		Magnus Erik			Tweaks
+devices/gnome-dev-mouse-ball.svg	*
+devices/gnome-dev-mouse-optical.svg	*
+devices/gnome-dev-network.svg		*
+devices/gnome-dev-pcmcia.svg		CCSA2.5		Human
+devices/gnome-dev-printer.svg		*
+devices/gnome-dev-removable-1394.svg	?		Macesque			Tweaks
+devices/gnome-dev-removable-scsi.svg	?		Macesque			Tweaks
+devices/gnome-dev-removable.svg		?		Macesque			Tweaks
+devices/gnome-dev-removable-usb.svg	?		Macesque			Tweaks
+devices/gnome-dev-scanner.svg		?
+devices/gnome-dev-symlink.svg		?
+devices/gnome-dev-zipdisk.svg		CCSA2.5		Human
+devices/gnome-fs-usb.svg		AL2		KReal				Tweaks
+devices/headphone.svg			GPL2		Ludi Maciel
+devices/ipod.svg			GPL		Snowish
+devices/joystick.svg			GFDL		Piotr Michal Jaworski
+devices/laptop.svg			?						Tweeks
+devices/microphone.svg			?		Magnatune by Vinizzz		Tweaks
+devices/monitor.svg			GPL		Gnome_wind			Refactoring
+devices/mp3player.svg			GPL		Sam Baynham
+devices/network_fs.svg			*
+devices/option/cam.svg			PD		aj_ashton
+devices/option/gnome-dev-harddisk-1394.svg	CCSA2.5	Human
+devices/option/gnome-dev-harddisk-scsi.svg	CCSA2.5	Human
+devices/option/gnome-dev-harddisk.svg		CCSA2.5	Human
+devices/option/gnome-dev-harddisk-usb.svg	CCSA2.5	Human
+devices/option/gnome-dev-removable-1394.svg	CCSA2.5	Human
+devices/option/gnome-dev-removable-scsi.svg	CCSA2.5	Human
+devices/option/gnome-dev-removable.svg		CCSA2.5	Human
+devices/option/gnome-dev-removable-usb.svg	CCSA2.5	Human
+devices/printer-class.svg		CCSA2.5		Kitae Kim of Jini Theme		Tweaks/composition
+devices/projector.svg			GPL		Staiu Kasabov-Nuvizus.com	Little tweak		
+devices/server.svg			*
+devices/tv.svg				GPL		Scripture SVG			Tweaks
+devices/webcam.svg			*
+filesystems/blockdevice.svg		?		?				Inspired on Apple original?
+filesystems/chardevice.svg		?		?				Refactoring
+filesystems/core.svg			GPL		?				Inspired by MazeNL77 icon
+filesystems/directory.svg		*
+filesystems/gnome-fs-blockdev.svg	GPL		*				See blockdevice.svg
+filesystems/gnome-fs-client.svg		GPL		*				See monitor.svg	
+filesystems/gnome-fs-desktop.svg	GPL		*				See monitor.svg
+filesystems/gnome-fs-directory-accept.svg	*
+filesystems/gnome-fs-executable.svg	*
+filesystems/gnome-fs-fifo.svg		*
+filesystems/gnome-fs-file-broken.svg	*
+filesystems/gnome-fs-ftp.svg		*
+filesystems/gnome-fs-home.svg		LGPL		*				See home.svg
+filesystems/gnome-fs-lib.svg		*
+filesystems/gnome-fs-nfs.svg		*
+filesystems/gnome-fs-remote.svg		GPL		*				See monitor.svg
+filesystems/gnome-fs-smb.svg		?		*				Has a TM symbol
+filesystems/gnome-fs-socket.svg		*						Apple inspired
+filesystems/gnome-fs-ssh.svg		*
+filesystems/gnome-fs-trash2-empty.svg	GPL		divilinux divi			Tweaks
+filesystems/gnome-fs-trash2-full.svg	GPL		divilinux divi			Tweaks
+filesystems/gnome-fs-trash-empty.svg	GPL		divilinux divi			Tweaks
+filesystems/gnome-fs-trash-full.svg	GPL		divilinux divi			Tweaks
+filesystems/mount-point.svg		*
+filesystems/network_fs.svg		*
+filesystems/option/gnome-fs-ftp.svg	*
+filesystems/option/gnome-fs-home.svg	*
+filesystems/option/gnome-fs-smb.svg	*
+filesystems/option/gnome-fs-ssh.svg	*
+filesystems/option/gnome-fs-trash-empty.svg	?					Tweaks
+filesystems/option/gnome-fs-trash-full.svg	?					Tweaks
+mimetypes/application-binary.svg	LGPL		CrystalSVG			Tweaks
+mimetypes/application-dvi.svg		LGPL		CrystalSVG			Tweaks
+mimetypes/application-flash.svg		TM						Tweaks
+mimetypes/application-octet-stream.svg	LGPL		CrystalSVG			Tweaks
+stock/accept.svg			*
+stock/arrow.svg				*
+stock/bookmarks.svg			*
+stock/media-backward.svg		*
+stock/media-eject.svg			*
+stock/media-forward.svg			*
+stock/media-mute.svg			*
+stock/media-next.svg			*
+stock/media-pause.svg			*
+stock/media-play.svg			*
+stock/media-prev.svg			*
+stock/media-record.svg			*
+stock/media-shuffle.svg			*
+stock/media-stop.svg			*
+stock/m-font.svg			*
+stock/m-lock.svg			PD		AJ Ashton - OCL
+stock/public.svg			LGPL		CrystalSVG		Tweaks
+stock/rox-show-hidden.svg		*
+stock/stock_about.svg			*
+stock/stock_accessories.svg		*
+stock/stock_add.svg			*
+stock/stock_amusements.svg		?					Refactoring
+stock/stock_apply.svg			*
+stock/stock_attach.svg			PD		Valessio Brito
+stock/stock_balance.svg			*
+stock/stock_bold.svg			*
+stock/stock_book_open.svg		GPL		*
+stock/stock_book.svg			GPL		*
+stock/stock_cancel.svg			*
+stock/stock_cdrom.svg			*
+stock/stock_close.svg			*
+stock/stock_connect.svg			*
+stock/stock_cut.svg			*
+stock/stock_delete.svg			GPL		divilinux divi			Tweaks
+stock/stock_dialog_authentication.svgz	GPL		realistiK
+stock/stock_dialog_error.svg		*
+stock/stock_dialog_info.svg		*
+stock/stock_dialog_question.svg		*
+stock/stock_dialog_warning.svg		*
+stock/stock_disconnect.svg		*
+stock/stock_edit.svg			?		Lanthys/Jonathan Dietrich pencil	Tweaks/composition
+stock/stock_execute.svg			*
+stock/stock_file-properties.svg		*
+stock/stock_find-and-replace.svg	?		*/Jonathan Dietrich pencil		Composition
+stock/stock_find.svg			*
+stock/stock_floppy.svg			AL2		KReal
+stock/stock_folder-properties.svg	*
+stock/stock_folder.svg			*
+stock/stock_fullscreen.svg		*
+stock/stock_go-back.svg			*
+stock/stock_go-down.svg			*
+stock/stock_go-forward.svg		*
+stock/stock_goto-bottom.svg		*
+stock/stock_goto-first.svg		*
+stock/stock_goto-last.svg		*
+stock/stock_goto-top.svg		*
+stock/stock_go-up.svg			*
+stock/stock_mic.svg			?		Magnatune by Vinizzz		Tweaks
+stock/stock_multimedia.svg		*
+stock/stock_network.svg			*
+stock/stock_new.svg			*
+stock/stock_no.svg			*
+stock/stock_ok.svg			*
+stock/stock_open.svg			*
+stock/stock_print-preview.svg		*
+stock/stock_print.svg			*
+stock/stock_properties.svg		*
+stock/stock_quit.svg			GPL2		xfce icon theme
+stock/stock_redo.svg			*
+stock/stock_refresh.svg			*
+stock/stock_remove.svg			*
+stock/stock_repeat.svg			*
+stock/stock_run.svg			*
+stock/stock_save-as.svg			?		KReal/Jonathan Dietrich pencil	Composition
+stock/stock_save.svg			AL2		KReal
+stock/stock_screenshot.svg		?		Lanthys/KReal			Composition
+stock/stock_search.svg			*
+stock/stock_select-color.svg		?						Apple inspired
+stock/stock_sort-ascending.svg		*
+stock/stock_sort-descending.svg		*
+stock/stock_spell-check.svg		*
+stock/stock_stop.svg			*
+stock/stock_undo.svg			*
+stock/stock_unknown.svg			*
+stock/stock_volume.svg			*
+stock/stock_yes.svg			LGPL		CristalSVG			Tweaks
+stock/stock_zoom-100.svg		*
+stock/stock_zoom-fit.svg		*
+stock/stock_zoom-in.svg			*
+stock/stock_zoom-out.svg		*
+stock/volume-max.svg			*
+stock/volume-medium.svg			*
+stock/volume-min.svg			*
+stock/volume-mute.svg			*
+stock/volume-zero.svg			*
+stock/xfce-utils.svg			LGPL		*/CristalSVG			Composition
+emotes/*				GPL2		gnome
