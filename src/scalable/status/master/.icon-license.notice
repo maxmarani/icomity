@@ -1,0 +1,52 @@
+icon name	license	origin
+appointment-missed.svgz	LGPLv3	icomity
+appointment-soon.svgz	LGPLv3	icomity
+audio-volume-high.svgz	LGPLv3	icomity
+audio-volume-low.svgz	LGPLv3	icomity
+audio-volume-medium.svgz	LGPLv3	icomity
+audio-volume-muted.svgz	LGPLv3	icomity
+dialog-error.svgz	LGPLv3	oxygen + icomity
+dialog-information.svgz	LGPLv3	oxygen + icomity
+dialog-password.svgz	LGPLv3	realistiK + icomity
+dialog-question.svgz	LGPLv3	icomity
+dialog-warning.svgz	LGPLv3	gnome + icomity
+folder-drag-accept.svgz	LGPLv3	kanzi + icomity
+folder-open.svgz	LGPLv3	kanzi + icomity
+folder-visiting.svgz	LGPLv3	kanzi + icomity
+image-loading.svgz	LGPLv3	meliae + icomity
+image-missing.svgz	LGPLv3	icomity
+mail-attachment.svgz	LGPLv3	icomity
+network-error.svgz	LGPLv3	breathe + icomity
+network-idle.svgz	LGPLv3	gnome wind + icomity
+network-offline.svgz	LGPLv3	breathe + icomity
+network-receive.svgz	LGPLv3	gnome wind + icomity
+network-transmit-receive.svgz	LGPLv3	gnome wind + icomity
+network-transmit.svgz	LGPLv3	gnome wind + icomity
+object-locked.svgz	LGPLv3	AJ@opencliart.org + icomity
+object-unlocked.svgz	LGPLv3	AJ@opencliart.org + icomity
+printer-error.svgz	LGPLv3	icomity
+printer-printing.svgz	LGPLv3	icomity
+script-error.svgz	LGPLv3	SRD@opencliart.org + icomity
+security-high.svgz	LGPLv3	gnome + icomity
+security-low.svgz	LGPLv3	gnome + icomity
+security-medium.svgz	LGPLv3	gnome + icomity
+software-update-available.svgz	LGPLv3	gnome + icomity
+software-update-urgent.svgz	LGPLv3	gnome + icomity
+sync-error.svgz	LGPLv3	oxygen + icomity
+sync-syncronizing.svgz	LGPLv3	oxygen + icomity
+task-due.svgz	LGPLv3	oxygen + icomity + randoogle@openlipart.org
+task-past-due.svgz	LGPLv3	oxygen + icomity + randoogle@openlipart.org
+user-trash-full.svgz	LGPLv3	oxygen
+weather-clear-night.svgz	LGPLv3	dan gerhard@openclipart.org + icomity
+weather-clear.svgz	LGPLv3	faenza + icomity
+weather-few-clouds-night.svgz	LGPLv3	dan gerhard@openclipart.org  + icomity
+weather-few-clouds.svgz	LGPLv3	faenza + icomity
+weather-fog.svgz	CC0v1.0	Franck Doucet@openclipart.org + icomity
+weather-freeze.svgz	LGPLv3	icomity + ?
+weather-overcast.svgz	LGPLv3	icomity
+weather-severe-alertt.svgz	LGPLv3	gnome + icomity
+weather-showers-scattered.svgz	LGPLv3	gnome + icomity
+weather-showers.svgz	LGPLv3	tango + icomity
+weather-snow.svgz	LGPLv3	icomity + ?
+weather-storm.svgz	LGPLv3	tango + icomity
+weather-wind.svgz	LGPLv3	icomity + ?
