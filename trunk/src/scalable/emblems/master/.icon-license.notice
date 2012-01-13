@@ -1,0 +1,38 @@
+icon name	license	origin
+emblem-certified.svgz	LGPLv3	oxygen + icomity
+emblem-default.svgz	LGPLv3	oxygen + icomity
+emblem-download.svgz	LGPLv3	faenza + icomity
+emblem-encrypted-locked.svgz	LGPLv3	oxygen
+emblem-encrypted-unlocked.svgz	LGPLv3	oxygen
+emblem-favorite.svgz	LGPLv3	icomity
+emblem-generic.svgz	LGPLv3	oxygen + icomity
+emblem-important.svgz	LGPLv3	icomity
+emblem-locked.svgz	LGPLv3	oxygen
+emblem-mounted.svgz	LGPLv3	icomity
+emblem-network-connected.svgz	LGPLv3	icomity
+emblem-network-unconnected.svgz	LGPLv3	icomity
+emblem-new.svgz	LGPLv3	icomity
+emblem-noread.svgz	LGPLv3	oxygen + icomity
+emblem-photos.svgz	GPL	hakim@openclipart.org + netalloy@openclipart.org + Lanthys + icomity
+emblem-shared.svgz	LGPLv3	crystal svg + icomity
+emblem-sound.svgz	LGPLv3	faenza
+emblem-symbolic-link.svgz	LGPLv3	oxygen
+emblem-syncronized.svgz	LGPLv3	oxygen + icomity
+emblem-syncronizing.svgz	LGPLv3	oxygen + icomity
+emblem-system.svgz	LGPLv3	oxygen + icomity
+emblem-unlocked.svgz	LGPLv3	oxygen
+emblem-unmounted.svgz	LGPLv3	oxygen + icomity
+emblem-unreadable.svgz	LGPLv3	oxygen + icomity
+emblem-urgent.svgz	LGPLv3	icomity + ?
+emblem-web.svgz	LGPLv3	oxygen
+image-has-versions-open.svgz	LGPLv3	oxygen
+image-has-versions.svgz	LGPLv3	oxygen
+image-stack-open.svgz	LGPLv3	oxygen
+image-stack.svgz	LGPLv3	oxygen
+vcs-added.svgz	LGPLv3	oxygen
+vcs-conflicting.svgz	LGPLv3	oxygen
+vcs-locally-modified.svgz	LGPLv3	oxygen
+vcs-locally-modified-unstaged.svgz	LGPLv3	oxygen
+vcs-normal.svgz	LGPLv3	oxygen
+vcs-removed.svgz	LGPLv3	oxygen
+vcs-update-required.svgz	LGPLv3	oxygen
